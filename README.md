@@ -7,3 +7,5 @@
 [![Subtitle API](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Subtitle-API)](https://subtitle-api.vercel.app/)
 
 [![Play Store API](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Play-Store-API)](https://play-store-api.vercel.app/)
+
+[![Pet Names API](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Pet-Names-API)](https://pet-names-api.vercel.app/)
