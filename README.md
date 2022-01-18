@@ -9,3 +9,5 @@
 [![Play Store API](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Play-Store-API)](https://play-store-api.vercel.app/)
 
 [![Pet Names API](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Pet-Names-API)](https://pet-names-api.vercel.app/)
+
+[![Pet Facts API](https://github-readme-stats.vercel.app/api/pin/?username=FayasNoushad&repo=Pet-Facts-API)](https://pet-facts-api.vercel.app/)
